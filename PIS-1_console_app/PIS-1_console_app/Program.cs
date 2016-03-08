@@ -11,7 +11,10 @@ namespace PIS_1_console_app
         {
             int num1 = 1, num2 = 2;
             Console.WriteLine("LELlo World!");
-            Console.WriteLine("%d Dobar vecer %d", num1, num2);           
+            
+            //dodani komentar
+            Console.WriteLine("%d Dobar vecer %d", num1, num2); 
+            
         }
     }
 }
