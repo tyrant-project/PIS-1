@@ -17,6 +17,8 @@ namespace PIS_1_console_app
             
             Console.WriteLine("trazim probleme");
             Console.WriteLine("evo mene");
+            
+            Console.WriteLine("Hello!");
         }
     }
 }
