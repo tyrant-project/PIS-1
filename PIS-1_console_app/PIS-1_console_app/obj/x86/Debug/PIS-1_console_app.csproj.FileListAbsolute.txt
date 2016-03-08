@@ -1,0 +1,4 @@
+C:\Users\student\Desktop\PIS-1\PIS-1\PIS-1_console_app\PIS-1_console_app\bin\Debug\PIS-1_console_app.exe
+C:\Users\student\Desktop\PIS-1\PIS-1\PIS-1_console_app\PIS-1_console_app\bin\Debug\PIS-1_console_app.pdb
+C:\Users\student\Desktop\PIS-1\PIS-1\PIS-1_console_app\PIS-1_console_app\obj\x86\Debug\PIS-1_console_app.exe
+C:\Users\student\Desktop\PIS-1\PIS-1\PIS-1_console_app\PIS-1_console_app\obj\x86\Debug\PIS-1_console_app.pdb
