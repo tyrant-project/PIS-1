@@ -15,6 +15,7 @@ namespace PIS_1_console_app
             //dodani komentar
             Console.WriteLine("%d Dobar vecer %d", num1, num2); 
             
+            Console.WriteLine("trazim probleme");
         }
     }
 }
