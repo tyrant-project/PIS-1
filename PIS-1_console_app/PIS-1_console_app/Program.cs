@@ -16,6 +16,7 @@ namespace PIS_1_console_app
             Console.WriteLine("%d Dobar vecer %d", num1, num2); 
             
             Console.WriteLine("trazim probleme");
+            //sta drugo mogu pisat ovde osin console.writeline
         }
     }
 }
